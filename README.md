@@ -25,7 +25,7 @@ This repository tracks my hands-on coding assignments for the **Generative AI Co
   * Applying anonymous (`lambda`) functions with `map()` and `filter()` to perform efficient batch data transformation and selective processing.
   * Encapsulating business logic within reusable functions that return structured outputs for improved maintainability and scalability.
   * Leveraging functional programming concepts to automate discount calculations, filter processed datasets, and streamline data workflows.
-  * 
+    
 * **`Assignment4.ipynb`** *(Coming Soon)*
 * **`Assignment5.ipynb`** *(Coming Soon)*
 * **`Assignment6.ipynb`** *(Coming Soon)*
