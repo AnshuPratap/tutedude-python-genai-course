@@ -19,8 +19,16 @@ This repository tracks my hands-on coding assignments for the **Generative AI Co
   * Building persistent, loop-driven console menus with automated error mitigation flags.
   * Utilizing logic breaks (`break` and `continue`) to skip zero-sales intervals and isolate corrupted data streams.
 
-* **`Assignment3.ipynb`** *(Coming Soon)*
+* **`Assignment3.ipynb` (Functions, Recursion, and Functional Programming)**
+  * Designing reusable functions with parameterized inputs and consistent return values for modular programming.
+  * Implementing recursive algorithms to solve mathematical problems while incorporating robust input validation and error handling.
+  * Applying anonymous (`lambda`) functions with `map()` and `filter()` to perform efficient batch data transformation and selective processing.
+  * Encapsulating business logic within reusable functions that return structured outputs for improved maintainability and scalability.
+  * Leveraging functional programming concepts to automate discount calculations, filter processed datasets, and streamline data workflows.
+  * 
 * **`Assignment4.ipynb`** *(Coming Soon)*
+* **`Assignment5.ipynb`** *(Coming Soon)*
+* **`Assignment6.ipynb`** *(Coming Soon)*
 
 ---
 
