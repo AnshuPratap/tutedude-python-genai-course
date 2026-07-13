@@ -1,1 +1,144 @@
+# 📦 Python Modules & Packages Assignment
 
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![Status](https://img.shields.io/badge/Assignment-Completed-success)
+![License](https://img.shields.io/badge/License-MIT-green)
+
+A Python assignment demonstrating the concepts of **Modules** and **Packages**, including creating custom modules, importing them in different ways, and organizing reusable code inside a Python package.
+
+---
+
+## 🚀 Project Overview
+
+This project covers:
+
+- Creating custom Python modules
+- Importing modules using different techniques
+- Creating a Python package
+- Using `__init__.py`
+- Performing billing and discount calculations
+- Implementing reusable string and mathematical utility functions
+
+---
+
+## 📂 Project Structure
+
+```
+Modules_Packages_Assignment/
+│
+├── main.py
+├── math_utils.py
+├── string_utils.py
+├── README.md
+│
+└── shop_package/
+    ├── README.md
+    ├── __init__.py
+    ├── billing.py
+    └── discount.py
+```
+
+---
+
+## ✨ Features
+
+### 📌 Task 1 – Custom Math Module
+
+- Addition
+- Subtraction
+- Square of a number
+
+---
+
+### 📌 Task 2 – String Utility Module
+
+- Capitalize words
+- Reverse a string
+- Count words
+
+---
+
+### 📌 Task 3 – Python Package
+
+Created a custom package named **shop_package**.
+
+Includes:
+
+- Billing calculations
+- Tax calculation
+- Percentage discount
+- Flat discount
+
+---
+
+## 🛠 Technologies Used
+
+- Python 3.x
+- Functions
+- Modules
+- Packages
+- Import Statements
+- `from ... import`
+- `__init__.py`
+
+---
+
+Run
+
+```bash
+python main.py
+```
+
+---
+
+## 📸 Sample Output
+
+```
+8
+2
+25
+25
+8
+2
+Hello!! Welcome To World
+syug olleh
+6
+900.0
+600
+630.0
+```
+
+---
+
+## 📚 Learning Outcomes
+
+- Creating Python modules
+- Organizing code using packages
+- Importing modules efficiently
+- Writing reusable code
+- Understanding project structure
+
+---
+
+## 📁 Repository
+
+🔗 **GitHub Repository**
+
+https://github.com/AnshuPratap/tutedude-python-genai-course
+
+---
+
+## 👨‍💻 Author
+
+**Anshu Pratap**
+
+B.Tech CSE Student
+
+Passionate about Python, Data Analytics, AI & Generative AI.
+
+- GitHub: https://github.com/AnshuPratap
+- LinkedIn: https://www.linkedin.com/in/anshu-pratap/
+
+---
+
+⭐ If you found this project helpful, consider giving it a star!
