@@ -1,1 +1,66 @@
+# shop_package
 
+A custom Python package created for the Python Modules & Packages Assignment.
+
+## Files
+
+### billing.py
+
+Provides billing-related functions.
+
+Functions:
+- calculate_total(prices)
+- apply_tax(amount)
+
+Example:
+
+```python
+from shop_package.billing import calculate_total, apply_tax
+
+prices = [100, 200, 300]
+
+total = calculate_total(prices)
+print(total)
+
+print(apply_tax(total))
+```
+
+---
+
+### discount.py
+
+Provides discount-related functions.
+
+Functions:
+- apply_discount(price, percent)
+- flat_discount(price)
+
+Example:
+
+```python
+from shop_package.discount import apply_discount
+
+print(apply_discount(1000, 10))
+```
+
+---
+
+### __init__.py
+
+Exports the package functions so they can be imported easily.
+
+```python
+from .discount import apply_discount, flat_discount
+from .billing import calculate_total, apply_tax
+```
+
+---
+
+## Purpose
+
+This package demonstrates:
+
+- Creating custom Python packages
+- Organizing code into modules
+- Reusing functions
+- Importing package modules
