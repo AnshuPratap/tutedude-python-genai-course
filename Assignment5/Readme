@@ -1,9 +1,5 @@
 # 📦 Python Modules & Packages Assignment
 
-![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
-![Status](https://img.shields.io/badge/Assignment-Completed-success)
-![License](https://img.shields.io/badge/License-MIT-green)
-
 A Python assignment demonstrating the concepts of **Modules** and **Packages**, including creating custom modules, importing them in different ways, and organizing reusable code inside a Python package.
 
 ---
