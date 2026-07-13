@@ -26,8 +26,22 @@ This repository tracks my hands-on coding assignments for the **Generative AI Co
   * Encapsulating business logic within reusable functions that return structured outputs for improved maintainability and scalability.
   * Leveraging functional programming concepts to automate discount calculations, filter processed datasets, and streamline data workflows.
     
-* **`Assignment4.ipynb`** *(Coming Soon)*
-* **`Assignment5.ipynb`** *(Coming Soon)*
+* **`Assignment4.ipynb` (File Handling)**
+  * Reading and writing text files using Python.
+  * Processing sales and product data from external files.
+  * Generating formatted reports with calculated summaries.
+  * Handling file operations using context managers (`with` statement).
+  * Applying string manipulation and data cleaning techniques during file processing.
+  * Building reusable functions for reading, writing, and analyzing file-based datasets.
+
+* **`Assignment5.ipynb` (Modules & Packages)**
+  * Creating custom Python modules for reusable mathematical and string utility functions.
+  * Importing modules using `import` and `from ... import` statements.
+  * Organizing related functionality into a custom Python package (`shop_package`).
+  * Implementing billing, taxation, and discount calculation modules.
+  * Utilizing `__init__.py` to expose package functionality.
+  * Demonstrating modular programming principles to improve code organization, reusability, and maintainability.
+    
 * **`Assignment6.ipynb`** *(Coming Soon)*
 
 ---
